@@ -4,7 +4,7 @@
 
 A clean, responsive portfolio website showcasing projects built by the TEKZIO team. Mini projects, final year projects & startup ideas — we've got you covered.
 
-🌐 **Live Site:** [View Portfolio](https://your-username.github.io/tekzio-portfolio)
+🌐 **Live Site:** [View Portfolio](https://tekzio-portfolio.vercel.app/)
 
 ---
 
