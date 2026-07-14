@@ -76,7 +76,7 @@ open index.html
 2. Click **Settings** → **Pages**
 3. Under **Source**, select `main` branch and `/ (root)`
 4. Click **Save**
-5. Your site will be live at `https://your-username.github.io/tekzio-portfolio`
+5. Your site will be live at `https://tekzio-portfolio-sooty.vercel.app/`
 
 ---
 
